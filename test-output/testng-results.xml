@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3335" started-at="2021-05-18T18:02:23 IST" finished-at="2021-05-18T18:02:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3335" started-at="2021-05-18T18:02:23 IST" finished-at="2021-05-18T18:02:27 IST">
+      <class name="TestCases.Parameterised_DataProvider_WithFile">
+        <test-method status="PASS" signature="addBook()[pri:0, instance:TestCases.Parameterised_DataProvider_WithFile@51c8530f]" name="addBook" duration-ms="3291" started-at="2021-05-18T18:02:23 IST" finished-at="2021-05-18T18:02:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- TestCases.Parameterised_DataProvider_WithFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
